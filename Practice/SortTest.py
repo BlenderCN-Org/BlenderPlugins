@@ -1,0 +1,6 @@
+edgeTuples = ((65, 3.4), (432, 1.2), (12, 3.4), (4, 3.41), (543, 100))
+print('unsorted: ' + str(edgeTuples))
+sortedEdgeTuples0  = sorted(edgeTuples, key=lambda edge: edge[0])
+print('sorted by [0]: ' + str(sortedEdgeTuples0))
+sortedEdgeTuples1  = sorted(edgeTuples, key=lambda edge: edge[1])
+print('sorted by [1]: ' + str(sortedEdgeTuples1))
