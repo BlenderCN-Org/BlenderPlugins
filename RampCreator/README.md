@@ -10,3 +10,7 @@ There are five properties that can be used to tweak the shape of the resuling ra
 - Ramp Width
 - Ramp Length (only affects the length of the ramp area, not the top platform)
 - Max Incliation (controls the inclination of the ramp at its highest point)
+
+## Demonstration Video
+
+https://youtu.be/pPNOPcsROes
